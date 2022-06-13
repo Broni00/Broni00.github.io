@@ -417,6 +417,12 @@ border: 1px solid #f1f1f1;
       border-radius: 20px;
       height: 250px;
     }
+    .uk-padding-large {
+      padding: 5px;
+  }
+  .uk-width-small {
+    width: 130px;
+}
   }
   @media screen and (max-width: 350px){
     .flex{
