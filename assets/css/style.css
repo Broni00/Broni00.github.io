@@ -250,9 +250,7 @@ text-logo-up{
 min-width: 100%;
 
   }
-  .uk-width-medium {
-    width:250px;
-  }
+  
   .adaptive{
     margin-left:10%;
   
@@ -423,6 +421,12 @@ border: 1px solid #f1f1f1;
   .uk-width-small {
     width: 130px;
 }
+.nones{
+  display: none;
+}
+.hei{
+  height: 1000px;
+}
   }
   @media screen and (max-width: 350px){
     .flex{
@@ -436,6 +440,13 @@ border: 1px solid #f1f1f1;
       margin-left:-10px;
     
     }
+    
+    .two{
+      width: 150px;
+      margin-left: -40px;
+    }
+   
+   
    
   }
 
