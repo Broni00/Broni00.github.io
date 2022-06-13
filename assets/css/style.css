@@ -238,7 +238,7 @@ text-logo-up{
   width: 50px;
 }
 /*mobile*/
-@media screen and (max-width: 500px){
+@media screen and (max-width: 700px){
   .img{
     min-height: 40vh;
 min-width: 100%;
@@ -274,7 +274,7 @@ min-width: 100%;
     padding: 1px 1px;
     background: #63021170;
     color: #fff;
-    font-size: 8px;
+    font-size: 6px;
   }
   
 .uk-marker-block {
@@ -332,6 +332,7 @@ html{
 }
 .backred{
   background-color: rgba(207, 23, 41, 1);
+  background-image: url(../imgmob/header2.jpg);
 
 }
 .border{
