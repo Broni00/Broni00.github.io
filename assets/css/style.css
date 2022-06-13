@@ -421,11 +421,20 @@ border: 1px solid #f1f1f1;
   .uk-width-small {
     width: 130px;
 }
-.nones{
-  display: none;
+
+.uk-marker-block12 {
+  padding: 1px 1px;
+  background: #63021170;
+  color: #fff;
+  font-size: 9px;
 }
-.hei{
-  height: 1000px;
+
+.uk-marker-block {
+
+padding: 1px 1px;
+background: #63021170;
+color: #fff;
+font-size: 9px;
 }
   }
   @media screen and (max-width: 350px){
@@ -462,19 +471,6 @@ border: 1px solid #f1f1f1;
       margin-left:-30px;
     
     }
-    .uk-marker-block12 {
-      padding: 1px 1px;
-      background: #63021170;
-      color: #fff;
-      font-size: 5px;
-    }
     
-  .uk-marker-block {
-    
-    padding: 1px 1px;
-    background: #63021170;
-    color: #fff;
-    font-size: 5px;
-  }
    
   }
