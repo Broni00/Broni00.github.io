@@ -426,7 +426,7 @@ border: 1px solid #f1f1f1;
   padding: 1px 1px;
   background: #63021170;
   color: #fff;
-  font-size: 9px;
+  font-size: 5px;
 }
 
 .uk-marker-block {
@@ -434,7 +434,7 @@ border: 1px solid #f1f1f1;
 padding: 1px 1px;
 background: #63021170;
 color: #fff;
-font-size: 9px;
+font-size: 5px;
 }
   }
   @media screen and (max-width: 350px){
