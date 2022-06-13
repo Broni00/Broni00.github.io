@@ -144,6 +144,12 @@ padding-b{
     }
   
   }
+  @media screen and (max-width: 960px){
+    .uk-width-medium {
+      width: 100%;
+  }
+  
+  }
   /*end*/
   .active:hover{
     color:#97263f ;
@@ -244,6 +250,14 @@ text-logo-up{
 min-width: 100%;
 
   }
+  .uk-width-medium {
+    width:250px;
+  }
+  .adaptive{
+    margin-left:10%;
+  
+  }
+ 
   .w-50{
     width: 25px;
   }
@@ -404,9 +418,17 @@ border: 1px solid #f1f1f1;
       height: 250px;
     }
   }
-  @media screen and (max-width: 300px){
+  @media screen and (max-width: 350px){
     .flex{
       display: grid;
       grid-template-columns:1fr  ;
     }
+    .uk-width-medium {
+      width:230px;
+    }
+    .adaptive{
+      margin-left:-10px;
+    
+    }
+   
   }
